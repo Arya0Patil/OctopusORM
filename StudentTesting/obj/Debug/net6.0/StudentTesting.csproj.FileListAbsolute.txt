@@ -1,0 +1,15 @@
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\StudentTesting\bin\Debug\net6.0\StudentTesting.deps.json
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\StudentTesting\bin\Debug\net6.0\StudentTesting.dll
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\StudentTesting\bin\Debug\net6.0\StudentTesting.pdb
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\StudentTesting\bin\Debug\net6.0\Attributes.dll
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\StudentTesting\bin\Debug\net6.0\Attributes.pdb
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\StudentTesting\obj\Debug\net6.0\StudentTesting.csproj.AssemblyReference.cache
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\StudentTesting\obj\Debug\net6.0\StudentTesting.GeneratedMSBuildEditorConfig.editorconfig
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\StudentTesting\obj\Debug\net6.0\StudentTesting.AssemblyInfoInputs.cache
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\StudentTesting\obj\Debug\net6.0\StudentTesting.AssemblyInfo.cs
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\StudentTesting\obj\Debug\net6.0\StudentTesting.csproj.CoreCompileInputs.cache
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\StudentTesting\obj\Debug\net6.0\StudentTesting.csproj.CopyComplete
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\StudentTesting\obj\Debug\net6.0\StudentTesting.dll
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\StudentTesting\obj\Debug\net6.0\refint\StudentTesting.dll
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\StudentTesting\obj\Debug\net6.0\StudentTesting.pdb
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\StudentTesting\obj\Debug\net6.0\ref\StudentTesting.dll

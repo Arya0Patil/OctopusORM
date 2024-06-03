@@ -1,0 +1,24 @@
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\Attributes\bin\Debug\net6.0\Attributes.deps.json
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\Attributes\bin\Debug\net6.0\Attributes.dll
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\Attributes\bin\Debug\net6.0\Attributes.pdb
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\Attributes\obj\Debug\net6.0\Attributes.csproj.AssemblyReference.cache
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\Attributes\obj\Debug\net6.0\Attributes.GeneratedMSBuildEditorConfig.editorconfig
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\Attributes\obj\Debug\net6.0\Attributes.AssemblyInfoInputs.cache
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\Attributes\obj\Debug\net6.0\Attributes.AssemblyInfo.cs
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\Attributes\obj\Debug\net6.0\Attributes.csproj.CoreCompileInputs.cache
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\Attributes\obj\Debug\net6.0\Attributes.dll
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\Attributes\obj\Debug\net6.0\refint\Attributes.dll
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\Attributes\obj\Debug\net6.0\Attributes.pdb
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\Attributes\obj\Debug\net6.0\ref\Attributes.dll
+B:\Sunbeam\MS DotNet\New folder\Mini\Attributes\bin\Debug\net6.0\Attributes.deps.json
+B:\Sunbeam\MS DotNet\New folder\Mini\Attributes\bin\Debug\net6.0\Attributes.dll
+B:\Sunbeam\MS DotNet\New folder\Mini\Attributes\bin\Debug\net6.0\Attributes.pdb
+B:\Sunbeam\MS DotNet\New folder\Mini\Attributes\obj\Debug\net6.0\Attributes.csproj.AssemblyReference.cache
+B:\Sunbeam\MS DotNet\New folder\Mini\Attributes\obj\Debug\net6.0\Attributes.GeneratedMSBuildEditorConfig.editorconfig
+B:\Sunbeam\MS DotNet\New folder\Mini\Attributes\obj\Debug\net6.0\Attributes.AssemblyInfoInputs.cache
+B:\Sunbeam\MS DotNet\New folder\Mini\Attributes\obj\Debug\net6.0\Attributes.AssemblyInfo.cs
+B:\Sunbeam\MS DotNet\New folder\Mini\Attributes\obj\Debug\net6.0\Attributes.csproj.CoreCompileInputs.cache
+B:\Sunbeam\MS DotNet\New folder\Mini\Attributes\obj\Debug\net6.0\Attributes.dll
+B:\Sunbeam\MS DotNet\New folder\Mini\Attributes\obj\Debug\net6.0\refint\Attributes.dll
+B:\Sunbeam\MS DotNet\New folder\Mini\Attributes\obj\Debug\net6.0\Attributes.pdb
+B:\Sunbeam\MS DotNet\New folder\Mini\Attributes\obj\Debug\net6.0\ref\Attributes.dll

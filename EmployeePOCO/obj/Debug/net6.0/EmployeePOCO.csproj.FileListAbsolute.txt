@@ -1,0 +1,30 @@
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\EmployeePOCO\bin\Debug\net6.0\EmployeePOCO.deps.json
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\EmployeePOCO\bin\Debug\net6.0\EmployeePOCO.dll
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\EmployeePOCO\bin\Debug\net6.0\EmployeePOCO.pdb
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\EmployeePOCO\obj\Debug\net6.0\EmployeePOCO.csproj.AssemblyReference.cache
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\EmployeePOCO\obj\Debug\net6.0\EmployeePOCO.GeneratedMSBuildEditorConfig.editorconfig
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\EmployeePOCO\obj\Debug\net6.0\EmployeePOCO.AssemblyInfoInputs.cache
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\EmployeePOCO\obj\Debug\net6.0\EmployeePOCO.AssemblyInfo.cs
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\EmployeePOCO\obj\Debug\net6.0\EmployeePOCO.csproj.CoreCompileInputs.cache
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\EmployeePOCO\obj\Debug\net6.0\EmployeePOCO.dll
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\EmployeePOCO\obj\Debug\net6.0\refint\EmployeePOCO.dll
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\EmployeePOCO\obj\Debug\net6.0\EmployeePOCO.pdb
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\EmployeePOCO\obj\Debug\net6.0\ref\EmployeePOCO.dll
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\EmployeePOCO\bin\Debug\net6.0\Attributes.dll
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\EmployeePOCO\bin\Debug\net6.0\Attributes.pdb
+B:\Sunbeam\MS DotNet\MyAssignments\Mini\EmployeePOCO\obj\Debug\net6.0\EmployeePOCO.csproj.CopyComplete
+B:\Sunbeam\MS DotNet\New folder\Mini\EmployeePOCO\bin\Debug\net6.0\EmployeePOCO.deps.json
+B:\Sunbeam\MS DotNet\New folder\Mini\EmployeePOCO\bin\Debug\net6.0\EmployeePOCO.dll
+B:\Sunbeam\MS DotNet\New folder\Mini\EmployeePOCO\bin\Debug\net6.0\EmployeePOCO.pdb
+B:\Sunbeam\MS DotNet\New folder\Mini\EmployeePOCO\bin\Debug\net6.0\Attributes.dll
+B:\Sunbeam\MS DotNet\New folder\Mini\EmployeePOCO\bin\Debug\net6.0\Attributes.pdb
+B:\Sunbeam\MS DotNet\New folder\Mini\EmployeePOCO\obj\Debug\net6.0\EmployeePOCO.csproj.AssemblyReference.cache
+B:\Sunbeam\MS DotNet\New folder\Mini\EmployeePOCO\obj\Debug\net6.0\EmployeePOCO.GeneratedMSBuildEditorConfig.editorconfig
+B:\Sunbeam\MS DotNet\New folder\Mini\EmployeePOCO\obj\Debug\net6.0\EmployeePOCO.AssemblyInfoInputs.cache
+B:\Sunbeam\MS DotNet\New folder\Mini\EmployeePOCO\obj\Debug\net6.0\EmployeePOCO.AssemblyInfo.cs
+B:\Sunbeam\MS DotNet\New folder\Mini\EmployeePOCO\obj\Debug\net6.0\EmployeePOCO.csproj.CoreCompileInputs.cache
+B:\Sunbeam\MS DotNet\New folder\Mini\EmployeePOCO\obj\Debug\net6.0\EmployeePOCO.csproj.CopyComplete
+B:\Sunbeam\MS DotNet\New folder\Mini\EmployeePOCO\obj\Debug\net6.0\EmployeePOCO.dll
+B:\Sunbeam\MS DotNet\New folder\Mini\EmployeePOCO\obj\Debug\net6.0\refint\EmployeePOCO.dll
+B:\Sunbeam\MS DotNet\New folder\Mini\EmployeePOCO\obj\Debug\net6.0\EmployeePOCO.pdb
+B:\Sunbeam\MS DotNet\New folder\Mini\EmployeePOCO\obj\Debug\net6.0\ref\EmployeePOCO.dll
